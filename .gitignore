@@ -1,0 +1,21 @@
+# Archivos del enunciado / contexto académico (no publicar)
+IPOP_*.pdf
+Requisitos.txt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Carpeta de docs internos (specs/plans del workflow)
+docs/
