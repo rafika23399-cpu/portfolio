@@ -304,6 +304,26 @@ section:first-of-type { border-top: none; }
 .hero-contact a:hover { color: var(--accent); }
 
 /* ==========================================================================
+   Vídeo de presentación
+   ========================================================================== */
+
+.video-wrapper {
+  margin-top: 1.5em;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--ink);
+  box-shadow: 0 1px 2px rgba(26, 31, 46, 0.04);
+}
+
+.video-wrapper video {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: var(--ink);
+}
+
+/* ==========================================================================
    DAFO
    ========================================================================== */
 
